@@ -3,7 +3,6 @@ layout: page
 title: Assignments
 permalink: /assignments/
 ---
-{% include _toc.html %}
 
 All assignments are due at 1:50 p.m. Central time on the dates listed. All assignments must be blog posts on your own site, and you __must__ submit the URL of each post via the _Assignments_ feature on [BlackBoard](http://blackboard.iit.edu). Assignments will be graded on BlackBoard, usually within a week of submission.
 

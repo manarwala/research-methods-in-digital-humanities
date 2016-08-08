@@ -1,9 +1,6 @@
 ---
 layout: page
-title: Overview
-permalink: /overview/
 ---
-{% include _toc.html %}
 
 # Instructor Info
 Name: Prof. Libby Hemphill

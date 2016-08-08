@@ -9,8 +9,8 @@
 title: Research Methods in Digital Humanities
 email: libby.hemphill@iit.edu
 description: "Time: MW 1:50pm, Location: Wishnick 315"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+baseurl: "/research-methods-in-digital-humanities" # the subpath of your site, e.g. /blog
+url: "http://libby.github.io" # the base hostname & protocol for your site
 github_username:  libbyh
 
 # Build settings

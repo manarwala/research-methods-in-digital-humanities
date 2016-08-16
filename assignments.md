@@ -26,7 +26,7 @@ The course has four kinds of assignments:
 |Project Overview|October 5|5|
 |HOL #2 Reflection|October 12|10|
 |HOL #3 Reflection|November 7|10|
-|Project Update|November 14|5|
+|Project Update|November 21|5|
 |Course Relection|December 7|15|
 |Final project|December 7|30|
 
@@ -46,8 +46,8 @@ The course has four kinds of assignments:
 |Lab Name|In Class Dates|
 |---|---|
 |HOL #1 Analyzing Written Texts|September 12-14|
-|HOL #2 Making Mashups|October 3-5|
-|HOL #3 Analyzing Video Texts|October 31-Nov 2|
+|HOL #2 Analyzing Video Texts|October 3-5|
+|HOL #3 Making Mashups |October 31-Nov 2|
 
 
 # Blog PostsWe’ll be using [Jekyll](https://jekyllrb.com/) and [GitHub pages](https://pages.github.com/) to house public writing assignments. In order to use Jekyll and complete these assignments, you need a GitHub account. You may use an existing GitHub account or create one just for this class. You may use your real name or a pseudonym as long as you tell me which name is yours so I can identify your contributions for grading purposes. 

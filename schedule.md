@@ -6,7 +6,7 @@ permalink: /schedule/
 
 Note: the schedule may change. Make sure to check back often.
 
-Full citations for all the readings are available on the [reading list](/reading-list).
+Full citations for all the readings are available on the [reading list](/reading-list/).
 
 |Date|Topic|Before Class|In Class|
 |---|---|---|---|

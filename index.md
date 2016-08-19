@@ -18,7 +18,10 @@ This course is designed for Digital Humanities majors, Technology and Humanities
 To meet the major assignment requirements of the course, you will design and build an artifact of digital scholarship (e.g., a website, a movie, an interactive infographic) and write blog posts to reflect on the readings and activities. Most of our readings will be related to developing technical skills for doing digital humanities research (e.g., learning a scripting language, understanding data structures) or publications about digital humanities research (i.e., articles from academic journals).
 # Learning Goals
 After completing this course, you should be able to:
-* Effectively manage a digital humanities research project from end-to-end* Write thoughtfully and critically about digital humanities research and its methods
+
+* Discuss the situations under which various digital humanities research methods are appropriate* Effectively manage a digital humanities research project from end-to-end
+* Write thoughtfully and critically about digital humanities research and its methods
+* Use Jekyll, GitHub, iMovie, and maybe some Python
 
 In addition to the content of the course, you will also develop social skills and cultural competencies<sup>[1](#jenkins)</sup>:
 

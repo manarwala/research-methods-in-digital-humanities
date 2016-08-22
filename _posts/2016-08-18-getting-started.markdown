@@ -12,4 +12,4 @@ We're going to dive right in this week and start working on one of the central a
 * learning how to work with open source software
 * learning how to work with [Markdown](http://daringfireball.net/projects/markdown/)
 
-Stephanie Hicks has a nice [guide to setting up Jekyll on GitHub pages](/research-methods-in-digital-humanities/) that you can follow if this is your first Jekyll and/or GitHub rodeo. If this is your first time, I recommended using [jekyll-bootstrap](https://github.com/plusjade/jekyll-bootstrap) to get up and running quickly.
+Stephanie Hicks has a nice [guide to setting up Jekyll on GitHub pages](http://www.stephaniehicks.com/githubPages_tutorial/pages/githubpages-jekyll.html) that you can follow if this is your first Jekyll and/or GitHub rodeo. If this is your first time, I recommended using [jekyll-bootstrap](https://github.com/plusjade/jekyll-bootstrap) to get up and running quickly.

@@ -4,81 +4,62 @@ title: Assignments
 permalink: /assignments/
 ---
 
-All assignments are due at 1:50 p.m. Central time on the dates listed. All assignments must be blog posts on your own site, and you __must__ submit the URL of each post via the _Assignments_ feature on [BlackBoard](http://blackboard.iit.edu). Assignments will be graded on BlackBoard, usually within a week of submission.
+The purpose of assignments is to demonstrate progress toward the course's [learning goals](index#learning-goals). We identified many ways you could demonstrate your new knowledge, including
 
-All assignments are required. Every missing assignment will result in a one letter grade reduction of your final grade.
-
-The course has four kinds of assignments:
-
-* [Hands on Labs](#hands-on-labs)
 * [Blog Posts](#blog-posts)
+* [Class Discussions](#class-discussions)
 * [Course Reflection](#course-reflection)
 * [Final Project](#final-project)
 
+# Blog PostsWe’ll be using [Jekyll](https://jekyllrb.com/) and [GitHub pages](https://pages.github.com/) to house public assignments. You may use an existing GitHub account or create one just for this class. You may use your real name or a pseudonym as long as you tell me which name is yours so I can identify your contributions for grading purposes. You should consider the public at large the audience for your blog posts.
 
-# Due Dates
+Your blog posts should be posted by Monday morning so that your classmates may read them before class. Blog posts may take many forms (e.g., videos, infographics, prose, a combination) but should address the week's topic and assigned readings. You may find that blogging a [critical analysis of the article(s)](http://faculty.sites.uci.edu/ajenks/files/2016/08/Critical_Analysis_Worksheet-1.pdf) is an effective way to get started. Because we have decided that the public is the audience for these posts, you may also find it helpful to try explaining a method you are learning, including your own struggles to learn it, as a topic for a blog post. Here are a few example posts from pros:
 
-| Assignment | Due Date | Points |
-|---|---|---|
-|Introduction|August 29|5|
-|What is digital humanities research?|September 12|5|
-|HOL #1 Reflection|September 19|10|
-|Project Overview|October 5|5|
-|HOL #2 Reflection|October 12|10|
-|HOL #3 Reflection|November 7|10|
-|Project Update|November 21|5|
-|Course Relection|December 7|15|
-|Final project|December 7|30|
+* [Getting Things Done with TaskPaper](http://chronicle.com/blogs/profhacker/getting-things-done-with-taskpaper/62539) - ProfHacker
+* [Building a static website with Jekyll and GitHub Pages](http://programminghistorian.org/lessons/building-static-sites-with-jekyll-github-pages) - The Programming Historian
+* [A Brief Look at Texting and the Internet in Film](https://vimeo.com/channels/everyframeapainting/103554797) - Every Frame a Painting
+* [Analyzing Language for Persuasion Markers in Twitter Discussions](http://libbyh.com/2015/03/12/analyzing-language-for-persuasion-markers-in-twitter-discussions/) - LibbyH.com
 
+You'll notice in those examples that sometimes the blog post is actually a video that explains something, sometimes it's a tutorial about how to use a tool, sometimes it's a explanation of a researcher's process. All of these are fair game for you as well. Think of your blog post as a container for an artifact that combines prose, video, images, links, etc. to demonstrate your new knowledge. Combining these media is one way to demonstrate your skills of [appropriation](index#cultural-competencies), for instance. All blog posts demonstrate [networking](index#cultural-competencies) skills.
+
+# Class DiscussionsWe will practice and discuss many research methods together in class. You are expected to participate in these discussions and activities by respectfully talking with other students and connecting discussions to particular readings. Some discussions will require you to engage in performance or simulation, for instance, you may be asked to debate as if you disagree with yourself or to pretend to be someone else while attempting to solve a problem.
+
+# Course Reflection
+At least one of your blog posts must be an end-of-semester reflection. The purpose of the course reflection is to give you an opportunity to make sense of the work you’ve done this term and to demonstrate that you have thoughtfully considered how the course material may or may not be useful to you in the future. Remember that blog posts are just containers and that the content can take many forms (e.g., prose essay, powerpoint deck, infographic, video, song).
+
+Whatever form you choose, your reflection should explain how you understand some of the topics we covered in class or how you developed (or didn’t) core media literacy concepts outlined in the syllabus. The syllabus, website, and assignment notes are all good resources for lists of concepts we covered, learning goals for the course, and cultural competencies. You don’t need to explain every concept, learning goal, and competency, but you should address at least a few. I’m especially interested in competencies and concepts that were completely new or that you understand differently now. Use the whole semester; don’t just write about text analysis or video analysis.# Final ProjectYou will individually create an artifact (e.g., video, paper, website) that demonstrates your digital humanities research skills by explaining your particular research project. You should write about your ideas for your project on the blog early in the semester, post an update on your project progress midway through the semester, and post your artifact and commentary about it at the end of the semester.
+
+You have two interim posts related to your final project - an idea blog post and an update blog post. The _idea post_ must explain what research question(s) you will address and provide an overview of your work plan for creating the video. The _update post_ must explain what work you have accomplished, what you have left to do, and what help you need to get it done.
+
+## Graduate Students
+Students enrolled in COM 601 have a different final project requirement: you need to write a paper. Your paper must be a draft appropriate for submission to the journal or (archival) conference of your choice. Your research project will be a replication study. You must make an appointment during office hours in September to discuss possible studies to replicate.
 
 # Grading
 
-|Letter Grade | Points |
-|---|---|
-|A| > 90|
-|B| 80 - 89|
-|C| 70 - 79|
-|D| 60 - 69|
-|E| < 60|# Hands On LabsWe will practice at least 3 methods for conducting digital humanities research together in class. After those “labs,” you’ll have a couple exercises to complete on your own. Your labs are due before the class meeting after we practice together, and those dates are listed below.
+On the first day of class, you and your classmates helped set the expectations for what characterizes _A_ and _B_ level work in this course. Here's what you decided:
 
-## Hands On Lab Schedule
+## A Level Work
 
-|Lab Name|In Class Dates|
-|---|---|
-|HOL #1 Analyzing Written Texts|September 12-14|
-|HOL #2 Analyzing Video Texts|October 3-5|
-|HOL #3 Making Mashups |October 31-Nov 2|
+An _A_ in this course indicates that at least 80% of the time, the student 
 
+* demonstrated originality in their comments
+* maintained focus throughout
+* explained how they arrived at their the conclusions (i.e., show your work!)
+* presented clearly written, organized commentary
+* provided work free from grammar and puncutation errors
+* consistently applied a citation standard
 
-# Blog PostsWe’ll be using [Jekyll](https://jekyllrb.com/) and [GitHub pages](https://pages.github.com/) to house public writing assignments. In order to use Jekyll and complete these assignments, you need a GitHub account. You may use an existing GitHub account or create one just for this class. You may use your real name or a pseudonym as long as you tell me which name is yours so I can identify your contributions for grading purposes. 
+## B Level Work
 
-## Grading Rubric for Blog Posts
+A _B_ in this course indicates that are least 70% of the time, the student produced work consistent with the standards outlined above. _B_ work is also characterized by
 
-The following rubric will be used for all blog posts, including reflections about the labs and the course.
+* writing appropriate for the class, rather than the public, as the audience for one's work
+* good faith efforts at citing prior work
+* less focused discussions
 
-| Points | Characteristics|
-|---|---|
-|5|_Exceptional_. The story is focused and coherently integrates examples with explanations or analysis. The story demonstrates awareness of its own limitations or implications, and it considers multiple perspectives when appropriate. The story reflects in-depth engagement with the topic.|
-|4|_Satisfactory_. The story is reasonably focused, and explanations or analysis are mostly based on examples or other evidence. Fewer connections are made between ideas, and though new insights are offered, they are not fully developed. The story reflects moderate engagement with the topic.|
-|3|_Underdeveloped_. The story is mostly description or summary, without consideration of alternative perspectives, and few connections are made between ideas. The story reflects passing engagement with the topic.|
-|2|_Limited_. The story is unfocused, or simply rehashes previous comments, and displays no evidence of student engagement with the topic.|
-|1|_Effort Credit_. Story consists of one or two disconnected sentences.|
+## C or Lower Level Work
 
+A body of work that does not meet the criteria for _A_ or _B_ outlined above will earn a grade of _C_ or lower. Tardiness, disrespect, lack of focus, lack of clarity, and missing assignments are common reasons for these grades to be assigned.
 
-# Course Reflection
-The purpose of the course reflection assignment is to give you an opportunity to make sense of the work you’ve done this term and to demonstrate that you have thoughtfully considered how the course material may or may not be useful to you in the future. Your assignment may take many forms (e.g., prose essay, powerpoint deck, infographic, video, song).
-
-Whatever form you choose, your reflection assignment should explain how you understand some of the topics we covered in class or how you developed (or didn’t) core media literacy concepts outlined in the syllabus. The syllabus, website, and assignment notes are all good resources for lists of concepts we covered, learning goals for each assignment, and cultural competencies. You don’t need to explain every concepts, learning goal, and competency, but you should address at least a few. I’m especially interested in competencies and concepts that were completely new or that you understand differently now. Use the whole semester; don’t just write about text analysis or video analysis.
-# Final ProjectYou will individually create video that demonstrates your digital humanities research skills. You must write about your ideas for your project on the blog early in the semester, post an update on your project progress midway through the semester, and submit your video and a blog post about it at the end of the semester.
-
-You have two interim assignments related to your final project - an idea blog post and an update blog post. The _idea post_ must explain what research question(s) you will address and provide an overview of your work plan for creating the video. The _update post_ must explain what work you have accomplished, what you have left to do, and what help you need to get it done.
-
-## Graduate Students
-Students enrolled in COM 601 have a different final project requirement. Instead of making a video, you need to write a paper. Your paper must be a draft appropriate for submission to the journal or (archival) conference of your choice. Your research project will be a replication study. You must make an appointment during office hours in September to discuss possible studies to replicate.
-
-
-# Assignment Policies
-
-## Late Policy
-Late assignments will not be accepted.## A Note on Academic Honesty
+# A Note on Academic Honesty
 Work you submit must be your own. If you submit someone else’s work as your own, you will be expelled from the course, assigned a punitive failing grade of ‘E’, and will be reported to [academichonesty@iit.edu](mailto:academichonesty@iit.edu). If you need help documenting sources appropriately, please visit the Writing Center (Siegel Hall 232-233). Refer to the [Code of Academic Honesty](http://www.iit.edu/student_affairs/handbook/information_and_regulations/code_of_academic_honesty.shtml) in the Student Handbook if you have questions.

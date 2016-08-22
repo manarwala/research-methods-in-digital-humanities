@@ -24,6 +24,7 @@ To meet the major assignment requirements of the course, you will design and bui
 * Convey effective arguments using evidence gathered using digital methods
 * Use a variety of tools of digital humanities researcher including Jekyll, GitHub, iMovie, and maybe some Python
 
+## Cultural Competencies
 In addition to the content of the course, you will also develop social skills and cultural competencies<sup>[1](#jenkins)</sup>:
 
 - Play — the capacity to experiment with your surroundings as a form of problem-solving

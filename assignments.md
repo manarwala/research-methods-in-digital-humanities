@@ -4,7 +4,7 @@ title: Assignments
 permalink: /assignments/
 ---
 
-The purpose of assignments is to demonstrate progress toward the course's [learning goals](index#learning-goals). We identified many ways you could demonstrate your new knowledge, including
+The purpose of assignments is to demonstrate progress toward the course's [learning goals](/index#learning-goals). We identified many ways you could demonstrate your new knowledge, including
 
 * [Blog Posts](#blog-posts)
 * [Class Discussions](#class-discussions)
@@ -20,7 +20,7 @@ Your blog posts should be posted by Monday morning so that your classmates may r
 * [A Brief Look at Texting and the Internet in Film](https://vimeo.com/channels/everyframeapainting/103554797) - Every Frame a Painting
 * [Analyzing Language for Persuasion Markers in Twitter Discussions](http://libbyh.com/2015/03/12/analyzing-language-for-persuasion-markers-in-twitter-discussions/) - LibbyH.com
 
-You'll notice in those examples that sometimes the blog post is actually a video that explains something, sometimes it's a tutorial about how to use a tool, sometimes it's a explanation of a researcher's process. All of these are fair game for you as well. Think of your blog post as a container for an artifact that combines prose, video, images, links, etc. to demonstrate your new knowledge. Combining these media is one way to demonstrate your skills of [appropriation](index#cultural-competencies), for instance. All blog posts demonstrate [networking](index#cultural-competencies) skills.
+You'll notice in those examples that sometimes the blog post is actually a video that explains something, sometimes it's a tutorial about how to use a tool, sometimes it's a explanation of a researcher's process. All of these are fair game for you as well. Think of your blog post as a container for an artifact that combines prose, video, images, links, etc. to demonstrate your new knowledge. Combining these media is one way to demonstrate your skills of [appropriation](/index#cultural-competencies), for instance. All blog posts demonstrate [networking](/index#cultural-competencies) skills.
 
 # Class DiscussionsWe will practice and discuss many research methods together in class. You are expected to participate in these discussions and activities by respectfully talking with other students and connecting discussions to particular readings. Some discussions will require you to engage in performance or simulation, for instance, you may be asked to debate as if you disagree with yourself or to pretend to be someone else while attempting to solve a problem.
 

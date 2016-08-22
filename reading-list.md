@@ -4,30 +4,35 @@ title: Reading List
 permalink: /reading-list/
 ---
 
-Alves, D. (2014). Introduction: digital methods and tools for historical research. _International Journal of Humanities and Arts Computing_, _8_(1), 1–12.
+Watch for updates. This list **will** change throughout the term. Mostly, it will get longer. The list of readings is also available as a [Zotero library](https://www.zotero.org/groups/research_methods_in_digital_humanities_-_illinois_tech).
 
-Booth, W. C., Colomb, G. G., & Williams, J. M. (2008). _The craft of research_ (3rd ed). Chicago: University of Chicago Press.
+## Readings
+Alves, Daniel. 2014. “Introduction: Digital Methods and Tools for Historical Research.” _International Journal of Humanities and Arts Computing_ 8 (1): 1–12.
 
-Burdick, A., Drucker, J., Lunenfeld, P., Presner, T., & Schnapp, J. (2012). _Digital Humanities_. Cambridge, MA: MIT Press.
+Booth, Wayne C., Gregory G. Colomb, and Joseph M. Williams. 2008. _The Craft of Research_. 3rd ed. Chicago Guides to Writing, Editing, and Publishing. Chicago: University of Chicago Press.
 
-Hoover, D. L. (2008). Quantitative analysis and literary studies. In _Companion to Digital Literary Studies_ (Hardcover). Oxford: Blackwell Publishing Professional. Retrieved from http://www.digitalhumanities.org/companionDLS/
+Burdick, Anne, Johanna Drucker, Peter Lunenfeld, Todd Presner, and Jeffrey Schnapp. 2012. _Digital Humanities_. Cambridge, MA: MIT Press.
 
-Kirschenbaum, M. (2010). What Is Digital Humanities and What’s It Doing in English Departments? _ADE Bulletin_, _150_, 55–61.
+Hoover, David L. 2008. “Quantitative Analysis and Literary Studies.” In _Companion to Digital Literary Studies_, Hardcover. Blackwell Companions to Literature and Culture. Oxford: Blackwell Publishing Professional. [http://www.digitalhumanities.org/companionDLS/]().
 
-Louis, S. R. S. (2016). Big Data and the Search for Balanced Insight in the Digital Humanities: Macroscopic and Microscopic Reading of Citation Strategies in the Encyclopédie of Diderot (and Jaucourt), 1751-1772. _Digital Literary Studies_, _1_(1), 79–86. http://doi.org/10.18113/P8dls1159707
+Kirschenbaum, Matthew. 2012. “What Is Digital Humanities and What’s It Doing in English Departments?” In _Debates in the Digital Humanities_. [http://dhdebates.gc.cuny.edu/debates/text/38]().
 
-McCulloch, G. (2015, September 30). A Linguist Explains the Grammar of Shipping. Retrieved August 19, 2016, from http://the-toast.net/2015/09/30/a-linguist-explains-the-grammar-of-shipping/
+Louis, Scott Richard St. 2016. “Big Data and the Search for Balanced Insight in the Digital Humanities: Macroscopic and Microscopic Reading of Citation Strategies in the Encyclopédie of Diderot (and Jaucourt), 1751-1772.” _Digital Literary Studies_ 1 (1): 79–86. doi:10.18113/P8dls1159707.
 
-Petré, P. (2015). What grammar reveals about sex and death: interdisciplinary applications of corpus-based linguistics. _Digital Scholarship in the Humanities_, _30_(3), 371–387. http://doi.org/10.1093/llc/fqu011
+McCulloch, Gretchen. 2015. “A Linguist Explains the Grammar of Shipping.” _The Toast_. September 30. [http://the-toast.net/2015/09/30/a-linguist-explains-the-grammar-of-shipping/]().
 
-Schreibman, S., & Siemens, R. (2008). _A Companion to Digital Literary Studies_ (Hardcover). Oxford: Blackwell Publishing Professional. Retrieved from http://www.digitalhumanities.org/companionDLS/
+McPerson, Tara. 2012. “What Are the Digital Humanities so White? Or Thinking through the Histories of Race and Computation.” In _Debates in the Digital Humanities_. [http://dhdebates.gc.cuny.edu/debates/text/29]().
 
-Semenza, G. M. C. (2010). _Graduate study for the twenty-first century: how to build an academic career in the humanities_ (Rev. & updated 2nd ed). New York: Palgrave Macmillan.
+Petré, Peter. 2015. “What Grammar Reveals about Sex and Death: Interdisciplinary Applications of Corpus-Based Linguistics.” _Digital Scholarship in the Humanities_ 30 (3): 371–87. doi:10.1093/llc/fqu011.
 
-Text Analysis. (n.d.). In _Tooling Up for Digital Humanities_. Palo Alto: Stanford University. Retrieved from http://toolingup.stanford.edu/?page_id=981
+Schreibman, Susan, and Ray Siemens. 2008. _A Companion to Digital Literary Studies_. Hardcover. Blackwell Companions to Literature and Culture. Oxford: Blackwell Publishing Professional. [http://www.digitalhumanities.org/companionDLS/]().
 
-The Digital Humanities Manifesto 2.0. (2009, May 29). Retrieved February 24, 2010, from http://manifesto.humanities.ucla.edu/2009/05/29/the-digital-humanities-manifesto-20/
+Semenza, Gregory M. Colón. 2010. _Graduate Study for the Twenty-First Century: How to Build an Academic Career in the Humanities_. Rev. & updated 2nd ed. New York: Palgrave Macmillan.
 
-Underwood, T. (2015, June 4). Seven ways humanists are using computers to understand text. Retrieved from https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/
+“Text Analysis.” 2016. _Tooling Up for Digital Humanities_. Accessed August 19. [http://toolingup.stanford.edu/?page_id=981]().
 
-Zhou, T. (n.d.). Every Frame a Painting. Retrieved August 9, 2016, from https://vimeo.com/channels/everyframeapainting
+“The Digital Humanities Manifesto 2.0.” 2009. _Digital Humanities Manifesto_. May 29. [http://manifesto.humanities.ucla.edu/2009/05/29/the-digital-humanities-manifesto-20/]().
+
+Underwood, Ted. 2015. “Seven Ways Humanists Are Using Computers to Understand Text.” _The Stone and the Shell_. June 4. [https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/]().
+
+Zhou, Tony. 2016. “Every Frame a Painting.” Accessed August 9. [https://vimeo.com/channels/everyframeapainting]().

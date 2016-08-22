@@ -15,3 +15,6 @@ github_username:  libbyh
 
 # Build settings
 markdown: kramdown
+
+# Disqus
+disqus: dh-methods

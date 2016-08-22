@@ -7,7 +7,7 @@ Name: Prof. Libby Hemphill
 
 Email: [libby.hemphill@iit.edu](mailto:libby.hemphill@iit.edu)
 
-Office Hours: Wednesdays from 3:05 - 4:15 p.m. or by appointment
+Office Hours: Mondays after class or by appointment
 
 Office location: Siegel Hall 214 
 
@@ -21,7 +21,8 @@ To meet the major assignment requirements of the course, you will design and bui
 
 * Discuss the situations under which various digital humanities research methods are appropriate* Effectively manage a digital humanities research project from end-to-end
 * Write thoughtfully and critically about digital humanities research and its methods
-* Use Jekyll, GitHub, iMovie, and maybe some Python
+* Convey effective arguments using evidence gathered using digital methods
+* Use a variety of tools of digital humanities researcher including Jekyll, GitHub, iMovie, and maybe some Python
 
 In addition to the content of the course, you will also develop social skills and cultural competencies<sup>[1](#jenkins)</sup>:
 
@@ -37,8 +38,10 @@ In addition to the content of the course, you will also develop social skills an
 - Networking — the ability to search for, synthesize, and disseminate information
 - Negotiation — the ability to travel across diverse communities, discerning and respecting multiple perspectives, and grasping and following alternative norms.# Reading Materials
 
-## Required Textbooks
+## Textbooks
+
+You may find physical copies of these two books useful since you'll have to read quite a bit of each of them:
 1.	Burdick, A., Drucker, J., Lunenfeld, P., Presner, T., & Schnapp, J. (2012). Digital Humanities. Cambridge, MA: MIT Press. (You can [buy the book](https://mitpress.mit.edu/store/9248.html) (print or ebook) or use the [Open Access Edition PDF](http://mitpress.mit.edu/sites/default/files/titles/content/9780262018470_Open_Access_Edition.pdf) that’s available for free.)2.	Booth, W., Colomb, G.C., Williams, J.M. [The Craft of Research](http://www.amazon.com/Research-Chicago-Writing-Editing-Publishing/dp/0226065669/ref=sr_1_1?ie=UTF8&qid=1457466509&sr=8-1&keywords=craft+of+research) (3rd ed.). Chicago, IL: University of Chicago Press.
 ## Other Required Materials
-Much of what we read won’t come from a book. Instead, it’ll be on blogs, in articles, and in other forms of media. Links to all required readings will be posted on the class website in time for you to read them. What we read will depend on what you’re interested in and what projects you decide to work on, so the complete list isn’t available when the semester starts.# Special Needs Policy
+Most [what we read](reading-list) won’t come from a physical book. Instead, it’ll be on blogs, in articles, in digital books, and in other forms of media. Links to all required readings will be posted on the class website in time for you to read them. What we read will depend on what you’re interested in and what projects you decide to work on, so the complete list isn’t available when the semester starts.# Special Needs Policy
 Reasonable accommodations will be made for students with documented disabilities. In order to receive accommodations, students must obtain a letter of accommodation from the Center for Disability Resources. The Center for Disability Resources (CDR) is located in 3424 S. State St., room 1C3-2 (on the first floor), telephone: 312.567.5744 or [disabilities@iit.edu](mailto:disabilities@iit.edu).# Notes<a name="jenkins">1.</a> Jenkins, H., Purushotma, R., Weigel, M., Clinton, K., & Robison, A. J. (2009). _[Confronting the Challenges of Participatory Culture: Media Education for the 21st Century](https://mitpress.mit.edu/sites/default/files/titles/free_download/9780262513623_Confronting_the_Challenges.pdf)_. MIT Press: Cambridge.

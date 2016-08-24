@@ -13,3 +13,5 @@ We're going to dive right in this week and start working on one of the central a
 * learning how to work with [Markdown](http://daringfireball.net/projects/markdown/)
 
 Stephanie Hicks has a nice [guide to setting up Jekyll on GitHub pages](http://www.stephaniehicks.com/githubPages_tutorial/pages/githubpages-jekyll.html) that you can follow if this is your first Jekyll and/or GitHub rodeo. If this is your first time, I recommended using [jekyll-bootstrap](https://github.com/plusjade/jekyll-bootstrap) or [jekyll-now](https://github.com/barryclark/jekyll-now) to get up and running quickly.
+
+I need some info about your interests so I can choose interesting and relevant readings and activities for the rest of the term. [Tell me more here](https://goo.gl/forms/08qGW8FTBibuNpwy2).

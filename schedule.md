@@ -11,7 +11,7 @@ Full citations for all the readings are available on the [reading list](/researc
 |Date|Topic|Before Class|In Class|
 |---|---|---|---|
 |22-Aug|Intro to DH||Introductions|
-|24-Aug|Intro to DH|- Preface, Ch. 1, and Ch. 2 in _Digital Humanities_<br />- Kirschenbaum, 2010<br />- _The Digital Humanities Manifesto 2.0_|meet [Jekyll](https://jekyllrb.com/) and [GitHub](http://www.github.com) <br/> DH Journal activity|
+|24-Aug|Intro to DH|- Preface, Ch. 1, and Ch. 2 in _Digital Humanities_<br />- Kirschenbaum, 2012<br />- _The Digital Humanities Manifesto 2.0_|meet [Jekyll](https://jekyllrb.com/) and [GitHub](http://www.github.com) <br/> DH Journal activity|
 |29-Aug|What is research?|Section I in _The Craft of Research_||
 |31-Aug|Research questions|Section II in _The Craft of Research_|RQ scavenger hunt|
 |5-Sep|Analyzing written text|- Underwood, 2015<br />- "Text Analysis" in _Tooling Up for Digital Humanities_||

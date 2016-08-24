@@ -18,7 +18,7 @@ Full citations for all the readings are available on the [reading list](/researc
 |7-Sep|Analyzing written text|- "Algorithmic Criticism" in Schreibman and Siemens, 2008<br />- McCulloch, 2015||
 |12-Sep|HOL #1|||
 |14-Sep|HOL #1|||
-|19-Sep|Making arguments|Section III_The Craft of Research_|Peer review|
+|19-Sep|Making arguments|Section III _The Craft of Research_|Peer review|
 |21-Sep|Making arguments|[Ch. 5 from Semenza, 2010](https://www.dropbox.com/s/mzka6oyp3ura2bd/Semenza%202010%20Ch%205.pdf?dl=0)
 |
 |26-Sep|Production|||

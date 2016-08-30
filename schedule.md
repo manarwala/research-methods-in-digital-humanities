@@ -19,19 +19,19 @@ Full citations for all the readings are available on the [reading list](/researc
 |12-Sep|Analyzing written text|- "Algorithmic Criticism" in Schreibman and Siemens, 2008<br />- McCulloch, 2015||
 |14-Sep|Analyzing written text - *Harry Potter*|Heilman and Donaldson, 2009||
 |19-Sep|Analyzing written text - *Sherlock Holmes*|Hemphill, 2014
-|21-Sep|Making arguments|Section III _The Craft of Research_|Peer review|
-|26-Sep|Making arguments|[Ch. 5 from Semenza, 2010](https://www.dropbox.com/s/mzka6oyp3ura2bd/Semenza%202010%20Ch%205.pdf?dl=0)|
-|28-Sep|Production|||
-|3-Oct|Production||
-|5-Oct|HOL #2|||
+|21-Sep|Peer review|||
+|26-Sep|Analyzing text||Lab with Carol|
+|28-Sep|Analyzing text||Lab with Carol|
+|3-Oct|Making arguments|Section III _The Craft of Research_|Peer review|
+|5-Oct|Making arguments|[Ch. 5 from Semenza, 2010](https://www.dropbox.com/s/mzka6oyp3ura2bd/Semenza%202010%20Ch%205.pdf?dl=0)|
 |10-Oct|NO CLASS - FALL BREAK|||
 |12-Oct|Project planning ||Peer review|
 |17-Oct||||
 |19-Oct||||
 |24-Oct||||
 |26-Oct||||
-|31-Oct|HOL #3|||
-|2-Nov|HOL #3|||
+|31-Oct||||
+|2-Nov||||
 |7-Nov||||
 |9-Nov||||
 |14-Nov||||

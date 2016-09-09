@@ -17,7 +17,7 @@ Full citations for all the readings are available on the [reading list](/researc
 |5-Sep|NO CLASS - LABOR DAY|||
 |7-Sep|Analyzing written text|- Underwood, 2015<br />- "Text Analysis" in _Tooling Up for Digital Humanities_||
 |12-Sep|Analyzing written text|- "Algorithmic Criticism" in Schreibman and Siemens, 2008<br />- McCulloch, 2015||
-|14-Sep|Analyzing written text - *Harry Potter*|Heilman and Donaldson, 2009||
+|14-Sep|Analyzing written text - *Harry Potter*|- Heilman and Donaldson, 2009<br />- Hunt, 2015||
 |19-Sep|Analyzing written text - *Sherlock Holmes*|Hemphill, 2014
 |21-Sep|Peer review|||
 |26-Sep|Analyzing text||Lab with Carol|

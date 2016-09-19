@@ -21,6 +21,8 @@ python words.py > ash-words.txt
 python concordance.py -w think
 ```
 
+We identified a few problems with [the UPST code](http://github.com/libbyh/upst) in class, and I have fixed a few of them. It now uses Python 3.5, correctly counts chapters, and displays dispersion graphs.
+
 ## More Resources
 The research assistants in my lab have written intros to some of the tools you saw me use in class today:
 

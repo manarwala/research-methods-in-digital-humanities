@@ -49,12 +49,15 @@ On the first day of class, you and your classmates helped set the expectations f
 
 An _A_ in this course indicates that at least 80% of the time, the student 
 
+* formal or informal or somewhere in between - it's up to you
+* the public is your audience, but make sure you at least tell them where they can read whatever you're responding to
 * demonstrated originality in their comments
 * maintained focus throughout
 * explained how they arrived at their the conclusions (i.e., show your work!)
 * presented clearly written, organized commentary
 * provided work free from grammar and puncutation errors
-* consistently applied a citation standard
+* consistently applied a citation standard (links are ok, your reference style should match your tone)
+* relate to the readings
 
 ## B Level Work
 
@@ -63,10 +66,17 @@ A _B_ in this course indicates that are least 70% of the time, the student produ
 * writing appropriate for the class, rather than the public, as the audience for one's work
 * good faith efforts at citing prior work
 * less focused discussions
+* relate to course topics
 
 ## C or Lower Level Work
 
 A body of work that does not meet the criteria for _A_ or _B_ outlined above will earn a grade of _C_ or lower. Tardiness, disrespect, lack of focus, lack of clarity, and missing assignments are common reasons for these grades to be assigned.
+
+## Suggestions for blogging
+
+Posts are often more interesting if you can make some connection or application to life outside our class.
+
+Visual elements are also helpful (sometimes), e.g., pictures, videos, charts.
 
 # A Note on Academic Honesty
 
